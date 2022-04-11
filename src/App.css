@@ -1,8 +1,28 @@
 .App {
   text-align: center;
 }
+.addScore{
+  margin:   5px;
+  justify-content: space-between;
+  padding: 10px;
+}
+button{
+margin: 5px;
+}
+.addScore1{
+  background-color: yellow;
+}
+.addScore4{
+  background-color: blue;
+}
+.addScore6{
+  background-color: green;
+}
+.addWicket{
+  color: red;
+}
 
-.App-logo {
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +55,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
